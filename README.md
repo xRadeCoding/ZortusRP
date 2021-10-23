@@ -1,0 +1,2 @@
+# ZortusRP
+Fivem Server: ZortusRP
