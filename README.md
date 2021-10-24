@@ -6,22 +6,22 @@ Commands:
 
 ?melding Titel $ Text $ Kleur
 
-?say 'Bericht'
+`?say (Bericht)`
 
-?saycl 'Bericht'
+`?saycl (Bericht)`
 
-?suggestie '(Suggestie)'
+`?suggestie '(Suggestie)'`
 
-?clear Hoeveelhijd
+`?clear (Hoeveelhijd)`
 
-?ban (Speler-TAG) (Reden)
+`?ban (Speler-TAG) (Reden)`
 
-?kick (Speler-TAG) (Reden)
+`?kick (Speler-TAG) (Reden)`
 
-?warn (Speler-TAG) (Reden)
+`?warn (Speler-TAG) (Reden)`
 
-?mute (Speler-TAG) (Reden)
+`?mute (Speler-TAG) (Reden)`
 
-?warns (Speler-TAG)
+`?warns (Speler-TAG)`
 
 `?unwarn (Speler-TAG)`
