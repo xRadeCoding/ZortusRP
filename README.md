@@ -2,9 +2,9 @@
 
 Onderwereld Discord bot
 
-Commands:
+**Commands:**
 
-?melding Titel $ Text $ Kleur
+`?melding (Titel) $ (Bericht) $ (Kleur)`
 
 `?say (Bericht)`
 
