@@ -1,8 +1,11 @@
 # ZortusRP
 
-Onderwereld Discord bot
+Officieel ZortusRP Discord bot (onderwereld)
 
-**Commands:**
+
+
+
+# **Commands:**
 
 `?melding (Titel) $ (Bericht) $ (Kleur)`
 
@@ -25,3 +28,8 @@ Onderwereld Discord bot
 `?warns (Speler-TAG)`
 
 `?unwarn (Speler-TAG)`
+
+
+# Disclaimer
+
+Het copyen en jou naam der in zetten mag niet de credit naar mij MOET der in staan!!!
