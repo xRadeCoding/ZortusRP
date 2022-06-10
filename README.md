@@ -1,6 +1,8 @@
 # ZortusRP
 
-Officieel ZortusRP Discord bot (onderwereld)
+Officieel ZortusRP Discord bot (onderwereld) 
+
+Versie: 12
 
 
 
